@@ -12,4 +12,8 @@
 
 ## Instructions
 
-TODO: these are missing
+1. Boil the Pasta
+2. Crisp the Pancetta
+3. Sauté the Aromatics and Mushrooms
+4. Deglaze and Simmer
+5. Toss and serve
